@@ -20,7 +20,7 @@
  
 static const char *TAG = "gps_demo";
 
-#define TIME_ZONE (+8)   //Beijing Time
+#define TIME_ZONE (-7)   //PDT
 #define YEAR_BASE (2000) //date in GPS starts from 2000
 
 /**
