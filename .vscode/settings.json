@@ -5,6 +5,7 @@
     "idf.openOcdConfigs": [
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
-    "idf.port": "/dev/tty.debug-console",
-    "idf.toolsPath": "/Users/noblez/.espressif"
+    "idf.port": "/dev/tty.usbserial-0001",
+    "idf.toolsPath": "/Users/noblez/.espressif",
+    "idf.flashType": "UART"
 }
